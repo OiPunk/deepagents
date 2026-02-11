@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.0.21](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.20...deepagents-cli==0.0.21) (2026-02-11)
+
+
+### Features
+
+* **cli:** add `/changelog`, `/feedback`, `/docs` ([#1261](https://github.com/langchain-ai/deepagents/issues/1261)) ([4561afb](https://github.com/langchain-ai/deepagents/commit/4561afbea17bb11f7fc02ae9f19db15229656280))
+* **cli:** support piped stdin as prompt input ([#1254](https://github.com/langchain-ai/deepagents/issues/1254)) ([cca61ff](https://github.com/langchain-ai/deepagents/commit/cca61ff5edb5e2424bfc54b2ac33b59a520fdd6a))
+
+
+### Bug Fixes
+
+* **cli:** fix stale model settings during model hot-swap ([#1257](https://github.com/langchain-ai/deepagents/issues/1257)) ([55c119c](https://github.com/langchain-ai/deepagents/commit/55c119cb6ce73db7cae0865172f00ab8fc9f8fc1))
+
 ## [0.0.20](https://github.com/langchain-ai/deepagents/compare/deepagents-cli==0.0.19...deepagents-cli==0.0.20) (2026-02-10)
 
 ### Features
